@@ -43,6 +43,6 @@ src="https://raw.githubusercontent.com/gist/israel-bruno/f1f7b0065c31304246953f2
 ## 🧿 &nbsp; Github Analytics
 
 <p align="left"> 
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs?username=israel-bruno&count_private=true&theme=vision-friendly-dark&layout=compact" alt="israel-bruno top langs"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=israel-bruno&count_private=true&theme=vision-friendly-dark&layout=compact" alt="israel-bruno top langs"/>
   
 </p>
