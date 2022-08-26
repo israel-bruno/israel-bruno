@@ -30,12 +30,12 @@ src="https://raw.githubusercontent.com/gist/israel-bruno/f1f7b0065c31304246953f2
 
 ## 🛠 &nbsp; Tech Stack 
 
-![JavaScript] ('https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript') &nbsp; 
-![TypeScript] ('https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript') &nbsp ;
-![Express]('https://img.shields.io/badge/Express-05122A?style=flat&logo=express') &nbsp;
-![React]('https://img.shields.io/badge/React-05122A?style=flat&logo=react') &nbsp; 
-![HTML]('https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5') &nbsp; 
-![CSS]('https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3') &nbsp;
-![Docker]('https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker') &nbsp;
-![PostgreSQL]('https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql') &nbsp;
+![JavaScript]('https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript')&nbsp; 
+![TypeScript]('https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript')&nbsp;
+![Express]('https://img.shields.io/badge/Express-05122A?style=flat&logo=express')&nbsp;
+![React]('https://img.shields.io/badge/React-05122A?style=flat&logo=react')&nbsp; 
+![HTML]('https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5')&nbsp; 
+![CSS]('https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3')&nbsp;
+![Docker]('https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker')&nbsp;
+![PostgreSQL]('https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql')&nbsp;
 ![Redis]('https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis')&nbsp;
