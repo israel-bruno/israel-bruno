@@ -14,11 +14,11 @@ src="https://raw.githubusercontent.com/gist/israel-bruno/f1f7b0065c31304246953f2
 
 <p>
 
-- 🔭 I’m currently working on Louzada Shop
+- 🔭 I’m currently working on Viptech Smart Solutions
 
-- 🌱 I’m currently learning  React, Microservices (NestJS)
+- 🌱 I’m currently learning Python
 
-- 💬 Ask me about **Javascript, Typescript,  Node.JS, HTML, CSS, SQL**
+- 💬 Ask me about ** Typescript,  Node.JS, SQL, Redis, Microservices**
 
 - 📫 How to reach me: https://www.linkedin.com/in/israel-morais-a3b20b173/
 
