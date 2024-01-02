@@ -18,11 +18,9 @@ src="https://raw.githubusercontent.com/gist/israel-bruno/f1f7b0065c31304246953f2
 
 - 🌱 I’m currently learning Python
 
-- 💬 Ask me about ** Typescript,  Node.JS, SQL, Redis, Microservices**
+- 💬 Ask me about ** Typescript,  Node.JS, Python, SQL, Redis, Microservices**
 
 - 📫 How to reach me: https://www.linkedin.com/in/israel-morais-a3b20b173/
-
-- ⚡ Fun fact: I never watched any Star Wars movies . 
 
 </p>
 
